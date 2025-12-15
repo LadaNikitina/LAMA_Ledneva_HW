@@ -22,6 +22,8 @@
 | CatBoost (базовый) | 0.89446 |
 | CatBoost + Optuna | 0.93057 |
 
+Как видно, LAMA бейзлайн побить **удалось**.
+
 ---
 
 ## Описание соревнования
@@ -494,9 +496,9 @@ Pipeline состоит из следующих этапов:
 
 Проект состоит из трёх основных скриптов, которые следует запускать последовательно:
 
-1. **EDA.py** - exploratory data analysis, генерация визуализаций
-2. **LAMA.py** - обучение LAMA baseline (обе конфигурации)
-3. **MLSolution.py** - собственное решение с CatBoost и Optuna
+1. **EDA.ipynb** - exploratory data analysis, генерация визуализаций
+2. **LAMA.ipynb** - обучение LAMA baseline (обе конфигурации)
+3. **MLSolution.ipynb** - собственное решение с CatBoost и Optuna
 
 ---
 
