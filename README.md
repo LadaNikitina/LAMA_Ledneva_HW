@@ -56,10 +56,9 @@ ieee-fraud-detection/
 │   └── sample_submission.csv
 ├── reports/                        # Визуализации и отчёты EDA
 ├── submissions/                    # Файлы submission для Kaggle
-│   └── lama_baseline.csv
 ├── EDA.ipynb                       # Exploratory Data Analysis
 ├── LAMA.ipynb                      # LightAutoML baseline решение
-├── MLSolution.ipynb                # Собственное решение (CatBoost + Pipeline)
+├── MLSolution.ipynb                # Собственное решение (CatBoost)
 ├── feature_transformers.py         # Кастомные sklearn трансформеры
 ├── utils.py                        # Вспомогательные функции
 ├── requirements.txt                # Зависимости проекта
@@ -536,7 +535,10 @@ Pipeline состоит из следующих этапов:
 
 ## Late Submission
 
-На приватном лидерборде лучший submission для LAMA показал такой результат:
+На приватном лидерборде submission для LAMA и моего решения показали такой результат:
+
+<img width="1218" height="236" alt="image" src="https://github.com/user-attachments/assets/abb5085d-8b77-4016-94e6-f805473d5b31" />
+
 
 
 
