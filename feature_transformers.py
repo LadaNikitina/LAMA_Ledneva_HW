@@ -16,7 +16,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 
 class TimeFeatureTransformer(BaseEstimator, TransformerMixin):
     """
-    Трансформер извлекает час, день, день недели из TransactionDT.
+    Трансформер извлекает час, день, день недели из TransactionDT=
     """
     
     def __init__(self, time_col = 'TransactionDT'):
