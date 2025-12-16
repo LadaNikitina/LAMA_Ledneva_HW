@@ -540,9 +540,3 @@ Pipeline состоит из следующих этапов:
 На приватном лидерборде submission для LAMA и моего решения показали такой результат:
 
 <img width="1218" height="236" alt="image" src="https://github.com/user-attachments/assets/abb5085d-8b77-4016-94e6-f805473d5b31" />
-
-
-
-
-На приватном лидерборде лучший submission для моего решения показал такой результат:
-
